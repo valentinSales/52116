@@ -1,0 +1,6 @@
+x = 3;
+y = 2;
+do {
+  console.log(x * y);
+  x = x - 1;
+} while (x > 0);

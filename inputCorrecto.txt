@@ -1,0 +1,5 @@
+x = 5;
+do {
+  console.log(x);
+  x = x - 2;
+} while (x >= 1);
